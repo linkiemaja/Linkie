@@ -1,8 +1,8 @@
 public class otherclass {
     public static void main(String[] args) {
-      Main myCar = new Main();
-      myCar.fullThrottle();
-      myCar.speed(200);
+      Main Carspeed = new Main();
+      Carspeed.goodspeed();
+      Carspeed.speed(300);
     }
   }
   
